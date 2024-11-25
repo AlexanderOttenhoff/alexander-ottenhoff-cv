@@ -25,6 +25,13 @@
 = Summary
 I'm a senior full stack software engineer with over 10 years of experience in building web and mobile applications. I have a strong background in computer science and electrical engineering, and have experience working in a variety of industries, including mining, biotech, and computer security. I have worked in both startups and large corporations, and have experience leading teams of developers and working closely with product teams to deliver high quality software products.
 
+= Key Achievements
+- Led a team of developers to build a mobile application for Zetifi devices
+- Developed data visualisation dashboards for BHP, ENPICOM, and Sqreen
+- Worked on the integration of AI services into Microsoft's Power Apps platform
+- Co-founded two startups, Baselist and Sherlock. Sherlock won the French AFDEL award in the category “Digital Innovation” in 2016.
+- Developed custom algorithms for generating user customisable 3D printable models of jewellery and mobile phone cases at LimeMakers
+
 
 = Experience
 #resume-entry(
@@ -117,7 +124,7 @@ I'm a senior full stack software engineer with over 10 years of experience in bu
 
 #resume-item[
   - Co-founded Sherlock, a platform for finding and making appointments with healthcare professionals while travelling
-  - Won the national AFDEL (now Numeum) award in the category “Digital Innovation” (jury: Dassault Systèmes & Microsoft) in January 2016.
+  - Won the national AFDEL (now Numeum) award in the category “Digital Innovation” (jury: Dassault Systèmes & Microsoft) in 2016.
 ]
 
 #resume-entry(
@@ -139,7 +146,7 @@ I'm a senior full stack software engineer with over 10 years of experience in bu
 )
 
 #resume-item[
-  - Developed custom algorithms for generating customisable 3D printable models of jewellery and mobile phone cases based on user input
+  - Developed custom algorithms for generating user customisable 3D printable models of jewellery and mobile phone cases
 ]
 
 #resume-entry(
