@@ -118,7 +118,7 @@ I'm a senior full stack software engineer with over 10 years of experience in bu
 #resume-entry(
   title: "Cofounder / CTO",
   location: "Paris, France",
-  date: "July 2015 - July 2016",
+  date: "November 2015 - July 2016",
   description: "Sherlock",
 )
 
