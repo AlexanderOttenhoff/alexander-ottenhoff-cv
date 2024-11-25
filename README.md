@@ -1,0 +1,1 @@
+This is the source of my CV. Written using Typst and the [Modern CV template](https://typst.app/universe/package/modern-cv/).
