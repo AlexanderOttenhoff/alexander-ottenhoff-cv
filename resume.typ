@@ -149,6 +149,11 @@ I'm a senior full stack software engineer with over 10 years of experience in bu
   description: "FLSmidth",
 )
 
+#resume-item[
+  - Designed operator user interfaces for robotic mineral sampling and cement plant control systems
+  - Helped commission FLSmidth products in Western Australia and New South Wales
+]
+
 
 = Skills
 
