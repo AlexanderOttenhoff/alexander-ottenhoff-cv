@@ -27,6 +27,7 @@ I'm a senior full stack software engineer with over 10 years of experience in bu
 
 = Key Achievements
 - Led a team of developers to build a mobile application for Zetifi devices
+- Presented a talk at Paris.JS meetup \#69 on frontend security for web applications
 - Developed data visualisation dashboards for BHP, ENPICOM, and Sqreen
 - Worked on the integration of AI services into Microsoft's Power Apps platform
 - Co-founded two startups, Baselist and Sherlock. Sherlock won the French AFDEL award in the category “Digital Innovation” in 2016.
@@ -43,6 +44,7 @@ I'm a senior full stack software engineer with over 10 years of experience in bu
 
 #resume-item[
   - Led a team of developers to build a mobile application for Zetifi devices
+  - Designed encryptionp protocols for secure communication between Zetifi devices and the mobile application
   - Worked closely with the product team to define the product roadmap
   - Developed Serverless backend services in AWS to support the mobile application
   - #strong("Technologies"): React Native, Typescript, AWS Lambda, Python, FastAPI, AWS DynamoDB, AWS Timestream
