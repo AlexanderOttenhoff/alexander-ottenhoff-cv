@@ -47,7 +47,7 @@ I'm a senior full stack software engineer with over 10 years of experience in bu
   - Designed encryption protocols for secure communication between Zetifi devices and the mobile application over bluetooth
   - Worked closely with the product team to define the product roadmap
   - Developed Serverless backend services in AWS to support the mobile application
-  - #strong("Technologies"): React Native, Typescript, AWS Lambda, Python, FastAPI, AWS DynamoDB, AWS Timestream
+  - #strong("Technologies"): React Native, Typescript, AWS Lambda, Python, FastAPI, AWS DynamoDB, AWS Timestream, Node.JS
 ]
 
 #resume-entry(
@@ -61,7 +61,7 @@ I'm a senior full stack software engineer with over 10 years of experience in bu
   - Developed a dashboard to visualise safety data across all of BHP's operations
   - Worked with data engineers to build a data pipeline to support the dashboard
   - Migrated the legacy dashboard from Javascript to Typescript, implemented a new UI design system, and modernised the codebase
-  - #strong("Technologies"): React, Typescript, D3, C\#, .NET Core, Snowflake, PostgreSQL, Docker
+  - #strong("Technologies"): React, Typescript, Node.JS, D3, C\#, .NET Core, Snowflake, PostgreSQL, Docker
 ]
 
 #resume-entry(
@@ -74,7 +74,7 @@ I'm a senior full stack software engineer with over 10 years of experience in bu
 #resume-item[
   - Developed a web application to visualise and analyse immunogenomics data
   - Worked with bioinformaticians to run scaled down versions of complex bioinformatics algorithms on subsets of the data in the browser
-  - #strong("Technologies"): React, Typescript, D3, WebAssembly, Rust, Docker, Kubernetes, Python
+  - #strong("Technologies"): React, Typescript, Node.JS, D3, WebAssembly, Rust, Docker, Kubernetes, Python, Flask
 ]
 
 #resume-entry(
@@ -100,7 +100,7 @@ I'm a senior full stack software engineer with over 10 years of experience in bu
 #resume-item[
   - Worked on the integration of AI services into Microsoft's Power Apps platform
   - Developed demo applications to showcase the capabilities of the AI services
-  - #strong("Technologies"): C\#, .NET Core, Azure Cognitive Services, Power Apps
+  - #strong("Technologies"): Typescript, React, Node.JS, C\#, .NET Core, Azure Cognitive Services, Power Apps
 ]
 
 #resume-entry(
@@ -114,7 +114,7 @@ I'm a senior full stack software engineer with over 10 years of experience in bu
   - Developed a web application to visualise security data for Sqreen's customers
   - Worked closely with the product team to define the product roadmap
   - Implemented a new UI design system and modernised the codebase
-  - #strong("Technologies"): React, Typescript, D3, Python, Flask, PostgreSQL
+  - #strong("Technologies"): React, Typescript, D3, Python, Flask, PostgreSQL, Node.JS
 ]
 
 #resume-entry(
